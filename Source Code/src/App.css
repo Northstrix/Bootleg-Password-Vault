@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  height: 100vh; /* Ensures the App takes the full height of the viewport */
+  background-size: cover; /* Makes the background image cover the entire div */
+  background-position: center; /* Centers the background image */
+  background-repeat: no-repeat; /* Prevents the background image from repeating */
+  display: flex; /* Use flexbox for centering */
+  flex-direction: column; /* Stack children vertically */
+  justify-content: center; /* Center children vertically */
+  align-items: center; /* Center children horizontally */
+  position: relative; /* Position relative for footer placement */
+}
+
+footer {
+  background-color: #242526;
+  color: #fff;
+  font-size: 14px;
+  height: 40px; /* Set fixed height */
+  bottom: 0;
+  position: fixed;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 999;
+  display: flex; /* Use flexbox for centering */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+}
+
+footer p {
+  margin: 0; /* Remove margin to fit within the fixed height */
+}
+
+footer a {
+  color: #66a3ff;
+  text-decoration: none;
+}
