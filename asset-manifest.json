@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bootleg-Password-Vault/static/css/main.9dfbaee6.css",
+    "main.js": "/Bootleg-Password-Vault/static/js/main.60209e58.js",
+    "static/js/453.cb364d83.chunk.js": "/Bootleg-Password-Vault/static/js/453.cb364d83.chunk.js",
+    "static/media/urban-1905188.jpg": "/Bootleg-Password-Vault/static/media/urban-1905188.8f935d7981c5e34e6829.jpg",
+    "index.html": "/Bootleg-Password-Vault/index.html",
+    "main.9dfbaee6.css.map": "/Bootleg-Password-Vault/static/css/main.9dfbaee6.css.map",
+    "main.60209e58.js.map": "/Bootleg-Password-Vault/static/js/main.60209e58.js.map",
+    "453.cb364d83.chunk.js.map": "/Bootleg-Password-Vault/static/js/453.cb364d83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dfbaee6.css",
+    "static/js/main.60209e58.js"
+  ]
+}
