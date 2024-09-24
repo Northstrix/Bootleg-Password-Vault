@@ -7,6 +7,8 @@ The source code of this app is also available at:
 - https://sourceforge.net/projects/bootleg-password-vault/
 - https://codeberg.org/Northstrix/Bootleg-Password-Vault
 
+The related article can be found at https://medium.com/@Northstrix/adbd8dad0442
+
 ![image text](https://github.com/Northstrix/Bootleg-Password-Vault/blob/main/media/Welcoming%20notice.png?raw=true)
 
 ![image text](https://github.com/Northstrix/Bootleg-Password-Vault/blob/main/media/Account%20Created%20Successfully%20Notification%20OK%20button%20is%20hovered.png?raw=true)
