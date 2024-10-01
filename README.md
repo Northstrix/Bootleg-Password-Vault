@@ -76,6 +76,8 @@ Image by [ran](https://pixabay.com/users/greissdesign-30789/?utm_source=link-att
 
 [深海なボタン](https://codepen.io/ash_creator/pen/GRGZYyV) by [あしざわ - Webクリエイター](https://codepen.io/ash_creator)
 
+[rémi's pop-up](https://codepen.io/Gthibaud/pen/MqpmXE) by [Tibo](https://codepen.io/Gthibaud)
+
 [チェックしないと押せないボタン](https://codepen.io/ash_creator/pen/JjZReNm) by [あしざわ - Webクリエイター](https://codepen.io/ash_creator)
 
 [crypto-js](https://github.com/brix/crypto-js) by [brix](https://github.com/brix)
@@ -87,3 +89,5 @@ Image by [ran](https://pixabay.com/users/greissdesign-30789/?utm_source=link-att
 [twofish](https://github.com/wouldgo/twofish) by [wouldgo](https://github.com/wouldgo)
 
 [firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) by [firebase](https://github.com/firebase/firebase-js-sdk)
+
+[react-toastify](https://github.com/fkhadra/react-toastify) by [fkhadra](https://github.com/fkhadra)
